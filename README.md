@@ -1,6 +1,6 @@
 # BIAnalytics
 
-Nama  : Reza Taqyuddin
-NIM   : 207056007
-Prodi : S2 - Sains Data dan Kecerdasan Buatan
-Deskripsi : Tugas Business Analytic menggunakan Microstrategy
+Nama  : Reza Taqyuddin <br>
+NIM   : 207056007<br>
+Prodi : S2 - Sains Data dan Kecerdasan Buatan<br>
+Deskripsi : Tugas Business Analytic menggunakan Microstrategy<br>
